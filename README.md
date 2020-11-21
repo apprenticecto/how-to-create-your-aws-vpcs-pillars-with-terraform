@@ -6,7 +6,7 @@
 ![GitHub version](https://img.shields.io/badge/terraform%20ec2--instance%20module-~%3E%202.15-success)
 ![GitHub version](https://img.shields.io/badge/local__machine__OS-OSX-blue)
 
-![VPCs_Scheme](vpc_peering.png)
+![VPCs_Scheme](https://s3.eu-central-1.amazonaws.com/apprenticecto.com/vpc_peering3.png)
 
 
 This [repo](https://github.com/apprenticecto/create_dev_vpc) set-up a development [VPC](https://aws.amazon.com/vpc/) and launched basic [EC2](https://aws.amazon.com/ec2/) instances. All via [Terraform](https://www.terraform.io/).
